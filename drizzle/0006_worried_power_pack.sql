@@ -1,0 +1,1 @@
+ALTER TYPE "public"."session_queue_status" ADD VALUE 'playing' BEFORE 'completed';
